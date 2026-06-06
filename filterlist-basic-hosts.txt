@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 21 May 2026 18:09 UTC
+# Last modified: 06 Jun 2026 02:47 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 281
+# Entries: 283
 # Expires: 4 days
 # Format: hosts
 
@@ -299,3 +299,5 @@
 0.0.0.0 revancedapp.io
 0.0.0.0 revancedapk.net
 0.0.0.0 vanced.io
+0.0.0.0 annas-archive.li
+0.0.0.0 annas-archive.pm
